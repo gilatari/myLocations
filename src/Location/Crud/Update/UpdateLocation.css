@@ -1,0 +1,17 @@
+.update-location .fields{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.update-location .fields input{
+    margin: 7px;
+    padding: 3px;
+    width: 30%;
+    min-width: 200px;
+    border: 1px solid lightgray;
+}
+
+.update-location button{
+    margin: 7px;
+}
